@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Biomaterials & 3D Printing Researcher|Hydrogels. Cardiac Tissue Engineering. Regenerative Medicine"
+title: "# Welcome to FORGE Research
+Functional Organs & Regenerative Graft Engineering"
 author_profile: true
 redirect_from: 
   - /about/

@@ -10,8 +10,8 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "FORGE Research"
-subtitle                 : "Engineering Tomorrow's Tissues Through Innovative Biomaterials & Bioprinting"
 title_separator          : "-"
+subtitle                 : "Engineering Tomorrow's Tissues Through Innovative Biomaterials & Bioprinting"
 name                     : &name "Mohammed Mehdi Benmassaoud"
 description              : &description "Biomedical Engineering transferring from basic research to translational research"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",

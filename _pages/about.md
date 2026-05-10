@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: |
-Welcome to FORGE Research
-Functional Organs & Regenerative Graft Engineering
+title: "Welcome to FORGE Research"
+subtitle: "Functional Organs & Regenerative Graft Engineering"
 author_profile: true
 redirect_from: 
   - /about/

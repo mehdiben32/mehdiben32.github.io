@@ -25,10 +25,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohammed Mehdi Benmassaoud, Ph.D.|FORGE Research"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Biomedical engineer and researcher specializing in 3D bioprinting, biomaterials, and tissue engineering. My work spans hydrogel development, cardiac tissue  engineering, and regenerative medicine, with a strong commitment to translational research. Currently advancing innovative polymer and DNA-based biomaterial solutions for cardiac repair."
+  location         : "Wisconsin"
   employer         : "Medical College of Wisconsin"
   uri              : # URL
   email            : "mbenmassaoud@mcw.edu" 

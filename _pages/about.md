@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biomaterials & 3D Printing Researcher|Hydrogels. Cardiac Tissue Engineering. Regenerative Medicine"
 author_profile: true
 redirect_from: 
   - /about/

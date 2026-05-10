@@ -31,8 +31,7 @@ bioprinting with immunology by engineering bone marrow
 models to investigate the impact of HIV on hematopoietic 
 stem cells (HSCs). This interdisciplinary work bridged 
 biomaterial science with virology, providing novel insights 
-into how HIV affects the stem cell niche. I further expanded 
-my bioprinting expertise by developing 3D printed neuronal 
+into how HIV affects the stem cell niche. This led to the filing of a patent application for the novel idea. I further expanded my bioprinting expertise by developing 3D printed neuronal 
 networks, contributing to the field of neural tissue engineering.
 
 ## Current Research
@@ -57,4 +56,4 @@ constructs.
 - Bone Marrow & Hematopoietic Stem Cell Engineering
 - Neural Tissue Engineering
 - Bioreactor Systems & Tissue Maturation
-- HIV & Stem Cell Biology
+- Stem Cell Biology

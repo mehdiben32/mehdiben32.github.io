@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/IMG_0770.jpg"
   name             : "Mohammed Mehdi Benmassaoud, Ph.D.|FORGE Research"
   pronouns         : # example: "she/her"  
   bio              : "Biomedical engineer and researcher specializing in 3D bioprinting, biomaterials, and tissue engineering. My work spans hydrogel development, cardiac tissue  engineering, and regenerative medicine, with a strong commitment to translational research. Currently advancing innovative polymer and DNA-based biomaterial solutions for cardiac repair."

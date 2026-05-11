@@ -13,7 +13,7 @@ author_profile: true
 Yu D, Ramirez SH, Andrews AM. Cannabis use is associated with a lower 
 likelihood of presence of HIV drug resistance mutations in a retrospective 
 cohort of adults with HIV. *NeuroImmune Pharmacology and Therapeutics*. 
-2025;4(1):49-57.
+2025;4(1):49-57. https://doi.org/10.1515/nipt-2024-0015
 
 **2024**
 
@@ -21,49 +21,49 @@ cohort of adults with HIV. *NeuroImmune Pharmacology and Therapeutics*.
 Davis L, Hutt E, Galie PA, Staehle MM, Daringer NM, et al. Extracellular 
 Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and 
 Spatially Dosed 3D Cell-Material Communication. *ACS Synthetic Biology*. 
-2024;14(7):2494-2513.
+2024;14(7):2494-2513. https://doi.org/10.1021/acssynbio.5b00052
 
 3. Recktenwald M, Kaur M, **Benmassaoud MM**, Copling A, Khanna T, Curry M, 
 Cortes D, Fleischer G, Carabetta VJ, Vega SL. Antimicrobial Peptide Screening 
 for Designing Custom Bactericidal Hydrogels. *Pharmaceutics*. 
-2024;16(7):860.
+2024;16(7):860. https://doi.org/10.3390/pharmaceutics16070860
 
 4. Paone LS, **Benmassaoud MM**, Curran A, Vega SL, Galie PA. A 3D-printed 
 blood-brain barrier model with tunable topology and cell-matrix interactions. 
-*Biofabrication*. 2024;16(1):015005.
+*Biofabrication*. 2024;16(1):015005. https://doi.org/10.1088/1758-5090/acff28
 
 5. Recktenwald M, **Benmassaoud MM**, Dalwadi S, Belanger N, Tang M, Deleg M, 
 Beachley V, Vega SL. Facile method for covalently binding peptides onto 
 polycaprolactone films and nanofibers. *Materials Letters*. 
-2024;365:136432.
+2024;365:136432. https://doi.org/10.1016/j.matlet.2024.136432
 
 6. Galpayage Dona KNU, **Benmassaoud MM**, Gipson CD, McLaughlin JP, 
 Ramirez SH, Andrews AM. Something to talk about; crosstalk disruption 
 at the neurovascular unit during HIV infection of the CNS. 
-*NeuroImmune Pharmacology and Therapeutics*. 2024;3(2):97-111.
+*NeuroImmune Pharmacology and Therapeutics*. 2024;3(2):97-111. https://doi.org/10.1515/nipt-2023-0025
 
 **2022**
 
 7. DiCerbo M, **Benmassaoud MM**, Vega SL. Porous Scaffold-Hydrogel Composites 
 Spatially Regulate 3D Cellular Mechanosensing. 
-*Frontiers in Medical Technology*. 2022;4:884314.
+*Frontiers in Medical Technology*. 2022;4:884314. https://doi.org/10.3389/fmedt.2022.884314
 
 **2020**
 
 8. **Benmassaoud MM**, Gultian KA, DiCerbo M, Vega SL. Hydrogel screening 
 approaches for bone and cartilage tissue regeneration. 
-*Annals of the New York Academy of Sciences*. 2020;1460(1):25-42.
+*Annals of the New York Academy of Sciences*. 2020;1460(1):25-42. https://doi.org/10.1111/nyas.14462
 
 9. Ranganathan SI, Kohama C, Mercurio T, Salvatore A, **Benmassaoud MM**, 
 Kim TWB. Effect of temperature and ultraviolet light on the bacterial kill 
 effectiveness of antibiotic-infused 3D printed implants. 
-*Biomedical Microdevices*. 2020;22(3):59.
+*Biomedical Microdevices*. 2020;22(3):59. https://doi.org/10.1007/s10544-020-00513-2
 
 **2019**
 
 10. **Benmassaoud MM**, Kohama C, Kim TWB, Kadlowec JA, Foltiny B, Mercurio T, 
 Ranganathan SI. Efficacy of eluted antibiotics through 3D printed femoral 
-implants. *Biomedical Microdevices*. 2019;21(3):51.
+implants. *Biomedical Microdevices*. 2019;21(3):51. https://doi.org/10.1007/s10544-019-0406-8
 
 ---
 
@@ -72,7 +72,7 @@ implants. *Biomedical Microdevices*. 2019;21(3):51.
 11. Wei X, **Benmassaoud M**, Meller M, Kuchibhatla S. Novel fractal planar 
 electrode design for efficient neural stimulation. *38th Annual International 
 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*. 
-2016:1802-1805.
+2016:1802-1805. https://doi.org/10.1109/EMBC.2016.7591068
 
 ---
 

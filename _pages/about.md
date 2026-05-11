@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to FORGE Research"
+title: "About Me"
 subtitle: "Functional Organs & Regenerative Graft Engineering"
 author_profile: true
 redirect_from: 

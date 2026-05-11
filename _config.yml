@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Benmassaoud+MM&cauthor_id=37820611"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mohammed-Mehdi-Benmassaoud-3?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "MehdiBenma84759"# Username for X / Twitter
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

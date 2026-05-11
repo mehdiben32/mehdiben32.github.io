@@ -8,17 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Hi, I'm Mehdi!
 
 I am a biomedical engineer and postdoctoral researcher at the 

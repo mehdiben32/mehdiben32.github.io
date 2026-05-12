@@ -18,7 +18,7 @@ functional tissues that restore and repair the human body.
 ---
 
 ## Current Research — Cardiac Tissue Engineering
-*Medical College of Wisconsin | 2025 - Present*
+*Medical College of Wisconsin | 2026 - Present*
 
 My current postdoctoral work focuses on cardiac tissue 
 engineering, developing patches and grafts using both 
@@ -39,7 +39,7 @@ established and novel polymer systems. Key areas include:
 ---
 
 ## Postdoctoral Research — Bioprinting & Virology
-*First Postdoctoral Fellowship | 2022 - 2024*
+*First Postdoctoral Fellowship | 2022 - 2025*
 
 I combined 3D bioprinting with immunology by engineering 
 bone marrow models to investigate the impact of HIV on 
@@ -137,7 +137,7 @@ my vision is to establish the **FORGE Research Lab** —
 
 ## Research Highlights
 
-- 🏆 **2 Patents** (1 filed, 1 granted)
+- 🏆 **1 Patents** (1 filed)
 - 📄 **11+ Publications** in peer-reviewed journals
 - ✍️ **3 First-Author Papers**
 - 💰 **Internal Research Grant** ($4,000)
